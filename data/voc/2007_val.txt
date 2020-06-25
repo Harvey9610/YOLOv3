@@ -1,0 +1,10 @@
+/Users/hw/pytorch/yolo/data/voc/images/000048.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000039.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000041.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000036.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000022.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000044.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000035.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000032.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000029.jpg
+/Users/hw/pytorch/yolo/data/voc/images/000049.jpg
